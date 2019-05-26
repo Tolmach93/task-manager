@@ -18,11 +18,15 @@
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
     "@vue/eslint-config-standard": "^4.0.0",
+    "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "lodash": "^4.17.11",
     "node-sass": "^4.9.0",
+    "normalize.css": "^8.0.1",
     "sass-loader": "^7.1.0",
+    "vue-draggable": "^2.0.2",
     "vue-template-compiler": "^2.5.21"
   }
 }
